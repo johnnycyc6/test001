@@ -1,0 +1,16 @@
+header{
+    height: 250px;
+    background-image: url(https://images.pexels.com/photos/1227511/pexels-photo-1227511.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-size: cover;
+    background-position: center center;
+}
+header h1{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+header h2{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
